@@ -1,0 +1,9 @@
+pytelegrambotapi==4.16.1
+python-dateutil==2.8.2
+python-editor==1.0.4
+telebot-calendar==1.2
+openpyxl==3.1.2
+pytz==2024.1
+pandas==2.2.1
+Flask==3.0.2
+telebot==0.0.5
